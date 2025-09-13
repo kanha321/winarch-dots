@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+# If no argument, use current folder
+FOLDER="${1:-$(pwd)}"
+
+# Convert WSL path to Windows path
+WIN_PATH=$(wslpath -w "$FOLDER")
+
+# Path to Windows Android Studio executable
+STUDIO_EXE="/mnt/c/Program Files/Android/Android Studio/bin/studio64.exe"
+
+# Open Android Studio with the project folder (detached)
+"$STUDIO_EXE" "$WIN_PATH" >/dev/null 2>&1 &
+disown
