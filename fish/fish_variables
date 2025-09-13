@@ -1,0 +1,35 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export ANDROID_HOME:/home/kanhaji/android\x2dsdk
+SETUVAR --export ANDROID_SDK_ROOT:/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk
+SETUVAR --export --path PATH:/opt/cuda/bin\x1e/root/jdt\x2dlanguage\x2dserver\x2d1\x2e43\x2e0\x2d202412191447/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/usr/lib/wsl/lib\x1e/mnt/c/Program\x20Files/Common\x20Files/Oracle/Java/javapath\x1e/mnt/c/Windows/system32\x1e/mnt/c/Windows\x1e/mnt/c/Windows/System32/Wbem\x1e/mnt/c/Windows/System32/WindowsPowerShell/v1\x2e0/\x1e/mnt/c/Windows/System32/OpenSSH/\x1e/mnt/c/Program\x20Files/Microsoft\x20VS\x20Code/bin\x1e/mnt/c/Program\x20Files/nodejs/\x1e/mnt/c/Program\x20Files/NVIDIA\x20Corporation/NVIDIA\x20App/NvDLISR\x1e/mnt/c/Program\x20Files\x20\x28x86\x29/NVIDIA\x20Corporation/PhysX/Common\x1e/mnt/c/Program\x20Files/Git/cmd\x1e/mnt/c/Program\x20Files/PowerShell/7\x2dpreview/preview\x1e/mnt/c/Program\x20Files/Neovim/bin\x1e/mnt/c/Program\x20Files/CMake/bin\x1e/mnt/c/Program\x20Files/WezTerm\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Programs/Python/Python313/Scripts/\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Programs/Python/Python313/\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WindowsApps\x1e/mnt/c/MinGW14/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Roaming/npm\x1e/mnt/c/sqlite\x1e/mnt/c/platform\x2dtools\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Programs/Microsoft\x20VS\x20Code/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WinGet/Packages/Fastfetch\x2dcli\x2eFastfetch_Microsoft\x2eWinget\x2eSource_8wekyb3d8bbwe\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WinGet/Packages/sxyazi\x2eyazi_Microsoft\x2eWinget\x2eSource_8wekyb3d8bbwe/yazi\x2dx86_64\x2dpc\x2dwindows\x2dmsvc\x1e/mnt/c/jdtls/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WinGet/Packages/Gyan\x2eFFmpeg_Microsoft\x2eWinget\x2eSource_8wekyb3d8bbwe/ffmpeg\x2d8\x2e0\x2dfull_build/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WinGet/Packages/yt\x2ddlp\x2eFFmpeg_Microsoft\x2eWinget\x2eSource_8wekyb3d8bbwe/ffmpeg\x2dN\x2d120858\x2dgae448e00af\x2dwin64\x2dgpl/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Microsoft/WinGet/Packages/yt\x2ddlp\x2eyt\x2ddlp_Microsoft\x2eWinget\x2eSource_8wekyb3d8bbwe\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk/emulator\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk/platform\x2dtools\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk/cmdline\x2dtools/latest/bin
+SETUVAR __fish_initialized:3800
+SETUVAR fish_color_autosuggestion:brblack
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:normal
+SETUVAR fish_color_comment:red
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:green
+SETUVAR fish_color_error:brred
+SETUVAR fish_color_escape:brcyan
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:brcyan
+SETUVAR fish_color_param:cyan
+SETUVAR fish_color_quote:yellow
+SETUVAR fish_color_redirection:cyan\x1e\x2d\x2dbold
+SETUVAR fish_color_search_match:white\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:normal
+SETUVAR fish_pager_color_description:yellow\x1e\x2di
+SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_pager_color_selected_background:\x2dr
+SETUVAR fish_user_paths:/home/kanhaji/bin\x1e/home/kanhaji/android\x2dsdk/cmdline\x2dtools/latest/bin\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk/platform\x2dtools\x1e/mnt/c/Users/CelestialSepian/AppData/Local/Android/Sdk/emulator\x1e/opt/cuda/bin\x1e/root/jdt\x2dlanguage\x2dserver\x2d1\x2e43\x2e0\x2d202412191447/bin
